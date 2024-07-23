@@ -1,0 +1,23 @@
+body {
+    background-color: #343a40;
+  }
+  
+  h2 {
+    color: #f8f9fa;
+  }
+  
+  .form-select {
+    background-color: #6c757d;
+    color: #f8f9fa;
+  }
+  
+  .transcript-box {
+    border: 1px solid gray;
+    height: 300px;
+    border-radius: 8px;
+  }
+  
+  #status {
+    display: none;
+  }
+  
